@@ -1,0 +1,154 @@
+.original{
+    border: 2px solid black;
+    background-color: lightgrey;
+    /* text-decoration: underline; */
+    margin: 50px 40px 50px 40px;
+
+}
+
+.head1{
+    position: relative;
+    left: 150px;
+    top: 20px;
+    font-family: arial;
+    font-size: 30px;
+   }
+.line{
+    padding-bottom: 20px;
+
+}
+a[href*="www."]{
+    color: black;
+    text-decoration: none;
+    font-family: arial;
+    font-weight: lighter;
+   }
+a:hover{
+    text-decoration: underline;
+    color: red;
+}
+a[href$="internet"]{
+position: absolute;
+left: 400px;
+top: 132px;
+}
+a[href$="google"]{
+    position: absolute;
+    left: 550px;
+    top: 132px;
+    }
+    a[href$="jumia"]{
+        position: absolute;
+        left: 700px;
+        top: 132px;
+        }
+        .submit1{
+position: absolute;
+top: 110px;
+left: 1000px;
+border-radius: 20px;
+background-color: black;
+text-decoration: none;
+color: white;
+padding: 10px;
+margin: 10px;
+        }
+        .submit1 a:hover{
+            background-color: red;
+        }
+        /* .second{
+            position:absolute;
+            top: 180px;
+        } */
+        .p1{
+            font-family: arial;
+            font-size: 15px;
+            
+            /* position:absolute;
+            top:170px; */
+        }
+        .try{
+            border-radius: 20px;
+            background-color: black;
+            color: white;
+            padding: 10px;
+            margin: 10px;
+        }
+        .second{
+            /* border: 1px solid red; */
+            width: 300px;
+            height: 800px;
+            margin-right: auto;
+            margin-left: 100px;
+            position: relative;
+            top: 100px;
+        
+        }
+        .million{
+            padding: 20px;
+            width: 250px;
+            height: 80px;
+            border-radius: 15px;
+            background-color: rgb(156, 152, 152);
+            /* position: absolute;
+            top: 770px; */   
+        }
+        .white{
+            
+            padding: 3px;
+            width:250px;
+            height: 60px;
+            border-radius: 15px;
+           
+            position: relative;
+            top: 10px;
+            font-size: 15px;
+            text-align: center;
+        }
+        .white a:hover{
+            background-color: black;
+        }
+        .third{
+            /* border: 1px solid red; */
+            width: 300px;
+            height: 500px;
+            margin-right: auto ;
+            margin-left: 500px;
+            position: relative;
+            bottom: 700px;
+
+        }
+        .next{
+            
+            padding: 10px;
+            width: 120px;
+            height: 100px;
+            /* border: 2px solid blue; */
+            border-radius: 15px;
+            background-color: rgb(101, 99, 97);
+            z-index: 5;
+        }
+        .wom{
+            width: 300px;
+            height: 300px;
+            /* border: 1px solid red; */
+            border-radius: 15px;
+            position: inherit;
+            left: 144px;
+            bottom: 125px;
+        }
+        .nose{
+            position: relative;
+            bottom: 820px;
+            left: 500px;
+        }
+        .payment{
+            position: relative;
+            bottom: 970px;
+            left: 800px;
+        }
+        .top{
+            position: relative;
+            bottom: 1620px;
+            left: 1030px;
+        }
